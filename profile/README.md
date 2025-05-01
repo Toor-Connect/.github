@@ -26,4 +26,4 @@ At Toor, we are deeply involved in every project, striving to deliver the highes
 ## 📫 Connect With Us
 
 - 🌐 [LinkedIn](https://www.linkedin.com/company/toor-connect/)
-- 📧 [Email](narcisoriol@toorconnect.com)
+- 📧 [Email] : narcisoriol@toorconnect.com
