@@ -1,6 +1,6 @@
 # 👋 Welcome to Toor Connect
 
-![Toor Connect Logo]() <!-- Replace with actual logo URL -->
+![Toor Connect Logo](ToorConnectLogo-ToorConnectLogoCompressed.png)
 
 ## 🚀 About Us
 
