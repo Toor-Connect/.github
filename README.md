@@ -1,6 +1,6 @@
 # 👋 Welcome to Toor Connect
 
-![Toor Connect Logo](ToorConnectLogo-ToorConnectLogoCompressed.png)
+<img src="assets/images/ToorConnectLogo-ToorConnectLogoCompressed.png" alt="Toor Connect Logo" width="25%"/>
 
 ## 🚀 About Us
 
